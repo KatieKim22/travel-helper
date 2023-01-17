@@ -1,0 +1,30 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.top-page {
+    position: absolute;
+    width: 100%;
+    display: inline;
+    height: 2.5em;
+    left: 0.2em;
+    top: 2em;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 95px;
+    line-height: 124px;
+    text-align: center;
+    color: #f0e8e8;
+}
+
+.naviMenu {
+    margin: 1em;
+}
+
+.kayak {
+    text-align: center;
+    margin: 2em;
+}
